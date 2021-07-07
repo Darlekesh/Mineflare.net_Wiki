@@ -17,6 +17,7 @@ jobs:
       run: |
         echo "Cleaning up previous run"
         rm -rf "${{ github.workspace }}"
+        rm -rf "${{ github.workspace }}"/.*
  
     - name: Prereqs
       env:
@@ -28,6 +29,7 @@ jobs:
         ls -la
         echo ${GITHUB_REPOSITORY}
         echo ${GITHUB_REPOSITORY} | cut -d'/' -f2
+        
         rm -r $(echo ${GITHUB_REPOSITORY} | cut -d'/' -f2) && echo "povedlo se"
         echo "--------------------------------------------------"
         git clone "https://token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" .
