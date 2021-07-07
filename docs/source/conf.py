@@ -357,7 +357,7 @@ today_fmt = "%B %d, %Y"
 epub_basename = 'target'
  
 html_context['downloads'] = list()
-html_context['downloads'].append( ('pdf', '/' +REPO_NAME+ '/' +current_language+ '/' +current_version+ '/' +project+ '_' +current_language+ '_' +current_version+ '.pdf') )
+#html_context['downloads'].append( ('pdf', '/' +REPO_NAME+ '/' +current_language+ '/' +current_version+ '/' +project+ '_' +current_language+ '_' +current_version+ '.pdf') )
  
 html_context['downloads'].append( ('epub', '/' +REPO_NAME+ '/' +current_language+ '/' +current_version+ '/' +project+ '_' +current_language+ '_' +current_version+ '.epub') )
  
@@ -369,4 +369,10 @@ html_context['display_github'] = True
 html_context['github_user'] = 'Mineflare-net'
 html_context['github_repo'] = 'Mineflare.net_Wiki'
 html_context['github_version'] = 'master/docs/'
- 
+
+
+###################
+# "_static" LINKS #
+###################
+
+html_context['root_page'].append( ('/' +REPO_NAME+ '/' +current_language+ '/' +current_version+ '/') )
