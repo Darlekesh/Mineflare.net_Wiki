@@ -29,6 +29,8 @@ jobs:
         ls -la
         rm -rf ../$(echo ${GITHUB_REPOSITORY} | cut -d'/' -f2)
         ls -la
+        cd
+        ls -la
         echo ${GITHUB_REPOSITORY}
         echo ${GITHUB_REPOSITORY} | cut -d'/' -f2
         
