@@ -4,4 +4,4 @@ Bany
 Začátek
 =======
 
-Ban ziskaš ze si kokos
+Ban získáš, že jsi kokos.
