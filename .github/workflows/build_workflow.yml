@@ -34,6 +34,7 @@ jobs:
       shell: bash
       
     - name: Clean working directory
+      if: ${{ always() }}
       shell: bash
       run: |
         echo "Cleaning up previous run"
