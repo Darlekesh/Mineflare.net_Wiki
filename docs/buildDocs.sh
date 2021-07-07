@@ -21,7 +21,8 @@ export SOURCE_DATE_EPOCH=$(git log -1 --pretty=%ct)
 # make a new temp dir which will be our GitHub Pages docroot
 docroot=`mktemp -d`
 
-export REPO_NAME="${GITHUB_REPOSITORY##*/}"
+#export REPO_NAME="${GITHUB_REPOSITORY##*/}"
+export REPO_NAME="wiki.mineflare.net"
  
 ##############
 # BUILD DOCS #
