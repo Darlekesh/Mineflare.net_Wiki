@@ -1,5 +1,6 @@
-<div id="mineflare_logo" style="padding-bottom: 20px;"><a href="https://mineflare.net"><img style="display: block; margin: auto;" src="/_static/img/banner.png" width="527" height="40" alt="Minecraft Komunita - Mineflare.net" title="Minecraft Komunita - Mineflare.net"></a></div>
-
+{% for type, url in root_page %}
+<div id="mineflare_logo" style="padding-bottom: 20px;"><a href="https://mineflare.net"><img style="display: block; margin: auto;" src="{{ url }}/_static/img/banner.png" width="527" height="40" alt="Minecraft Komunita - Mineflare.net" title="Minecraft Komunita - Mineflare.net"></a></div>
+{% endfor %}
 <div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
     <li><a href="{{ pathto(master_doc) }}">Docs</a> &raquo;</li>

@@ -69,7 +69,7 @@ for current_version in ${versions}; do
       # EPUB #
       sphinx-build -b epub docs/source/ docs/build/epub -D language="${current_language}"
       mkdir -p "${docroot}/${current_language}/${current_version}"
-      cp "docs/build/epub/target.epub" "${docroot}/${current_language}/${current_version}/helloWorld-docs_${current_language}_${current_version}.epub"
+      cp "docs/build/epub/target.epub" "${docroot}/${current_language}/${current_version}//Mineflare_wiki_${current_language}_${current_version}.epub"
  
       # copy the static assets produced by the above build into our docroot
       rsync -av "docs/build/html/" "${docroot}/"
@@ -104,7 +104,7 @@ cat > index.html <<EOF
 <!DOCTYPE html>
 <html>
    <head>
-      <title>helloWorld Docs</title>
+      <title>Mineflare.net Docs</title>
       <meta http-equiv = "refresh" content="0; url='/${REPO_NAME}/cz/master/'" />
    </head>
    <body>
