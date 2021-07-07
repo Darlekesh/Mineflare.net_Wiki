@@ -21,3 +21,4 @@ docs/source/*
 !docs/source/index.rst
 !docs/source/Mineflare.net/
 !docs/source/locales/
+!docs/source/Bans/
