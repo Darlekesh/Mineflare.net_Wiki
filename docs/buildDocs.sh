@@ -41,12 +41,13 @@ for current_version in ${versions}; do
    echo "INFO: Building sites for ${current_version}"
  
    # skip this branch if it doesn't have our docs dir & sphinx config
-   if [ ! -e 'docs/conf.py' ]; then
-      echo -e "\tINFO: Couldn't find 'docs/conf.py' (skipped)"
+   if [ ! -e 'docs/source/conf.py' ]; then
+      echo -e "\tINFO: Couldn't find 'docs/source/conf.py' (skipped)"
       continue
    fi
- 
+   
    languages="cz `find docs/locales/ -mindepth 1 -maxdepth 1 -type d -exec basename '{}' \;`"
+   echo $current_language
    for current_language in ${languages}; do
  
       # make the current language available to conf.py
