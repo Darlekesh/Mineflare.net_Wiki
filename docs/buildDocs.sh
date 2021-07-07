@@ -106,7 +106,7 @@ cat > index.html <<EOF
 <html>
    <head>
       <title>Mineflare.net Docs</title>
-      <meta http-equiv = "refresh" content="0; url='/${REPO_NAME}/cz/master/index.html'" />
+      <meta http-equiv = "refresh" content="0; url='/cz/master/index.html'" />
    </head>
    <body>
       <p>Please wait while you're redirected to our <a href="/${REPO_NAME}/cz/master/index.html">documentation</a>.</p>
