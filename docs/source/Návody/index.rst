@@ -13,21 +13,21 @@ na vedení serveru: vedeni@mineflare.net
 
 Ke správě, prosíme připojte potřebné dukazy, v připadě
 originalních verzí MC, zaslat sebe s pohledem F5, a napsat do chatu
-MF unregistrace - dale pak vyfotit a vložit na 'CTRL-V <https://ctrlv.cz/>'_ a poslat ve správě.
+MF unregistrace - dale pak vyfotit a vložit na `CTRL-V <https://ctrlv.cz/>`_ a poslat ve správě.
 
 
 .. image:: /_static/img/Unregistrace.PNG
-   :width: 400
-
+      :width: 400
+      :alt: Unregistrace obrázek
 
 Ziskaní Gemu
 ============
 
-:underline:'Zakoupení Gemu'
+:underline:`Zakoupení Gemu`
 
 Tuto příležitost pro vás připravujeme...
 
-:underline:'Nalezením'
+:underline:`Nalezením`
 
 Touto cestou gemy získaš pouze, za vyhrání Eventu,
 či jiných probíhajících soutěží na serveru.
@@ -46,11 +46,11 @@ přejdi k Unregistraci.
 VIP Učet
 ========
 
-:underline:'Vyhody VIP Učtu'
+:underline:`Vyhody VIP Učtu`
 
 Zakoupení teto pozice, získavate mnoho výhod.
 
-:underline:'VIP'
+:underline:`VIP`
 
 Prefix VIP na serveru.'
 Rank VIP na Discordu i na Ts3'
@@ -64,7 +64,7 @@ Tyto vyhody se mohou kdykoliv změnit!
 
 Platebni metody pro tuto hodnost pripravujeme.....
 
-:underline:'EPIC-VIP'
+:underline:`EPIC-VIP`
 
 Prefix EPIC na serveru.'
 Rank EPIC na Discordu i na Ts3'
@@ -78,7 +78,7 @@ Tyto vyhody se mohou kdykoliv změnit!
 
 Platebni metody pro tuto hodnost pripravujeme.....
 
-:underline:'HERO-VIP'
+:underline:`HERO-VIP`
 
 Tato hodnost se teprve připravuje....
 
@@ -92,5 +92,5 @@ Pro nahlašení podezřelého hráče použij:
 
 Váš ticket bude projednan v nejbližší době.
 
-:underline:'Upozornění': Po nahlašení, nemusí byt ticket vyřešen hned
-      kvuli již jinym reportum.
+:underline:`Upozornění`: Po nahlašení, nemusí byt ticket vyřešen hned
+      kvuli již jinym reportům.
