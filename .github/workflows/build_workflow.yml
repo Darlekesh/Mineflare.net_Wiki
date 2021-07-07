@@ -37,7 +37,6 @@ jobs:
       if: ${{ always() }}
       shell: bash
       run: |
-        echo "Cleaning up previous run"
-        rm -rf "${{ github.workspace }}"
- 
-
+        cd $RUNNER_WORKSPACE
+        cd ..
+        rm -r *
