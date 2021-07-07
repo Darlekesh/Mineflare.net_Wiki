@@ -375,4 +375,4 @@ html_context['github_version'] = 'master/docs/'
 # "_static" LINKS #
 ###################
 html_context['root_page'] = list()
-html_context['root_page'].append( ('site', '/' +REPO_NAME+ '/' +current_language+ '/' +current_version) )
+html_context['root_page'].append( ('site', '/' +current_language+ '/' +current_version) )
