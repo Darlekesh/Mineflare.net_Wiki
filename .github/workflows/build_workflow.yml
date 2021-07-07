@@ -28,6 +28,7 @@ jobs:
       shell: bash
       
     - name: Clean working directory
+      if: ${{ always() }}
       shell: bash
       run: |
         cd $RUNNER_WORKSPACE
