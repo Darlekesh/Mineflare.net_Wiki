@@ -27,6 +27,7 @@ jobs:
         echo "--------------------------------------------------"
         ls -la
         echo ${GITHUB_REPOSITORY}
+        echo ${GITHUB_REPOSITORY} | cut -d'/' -f2
         rm $(echo ${GITHUB_REPOSITORY} | cut -d'/' -f2) -rf
         echo "--------------------------------------------------"
         git clone "https://token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" .
