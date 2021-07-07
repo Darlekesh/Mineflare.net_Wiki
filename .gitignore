@@ -11,7 +11,7 @@ docs/Gruntfile.js
 docs/README.md
 docs/package.json
 docs/assets/
-docs/me.bat
+docs/make.bat
 docs/requirements.txt
 docs/source/*
 !docs/source/_static
@@ -23,3 +23,4 @@ docs/source/*
 !docs/source/locales/
 !docs/source/Bans/
 !docs/source/Návody/
+.vscode/settings.json

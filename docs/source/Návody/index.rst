@@ -1,3 +1,7 @@
+.. role:: strike
+  :class: strike
+
+
 ++++++
 Návody
 ++++++
@@ -9,11 +13,12 @@ na vedení serveru: vedeni@mineflare.net
 
 Ke správě, prosíme připojte potřebné dukazy, v připadě
 originalních verzí MC, zaslat sebe s pohledem F5, a napsat do chatu
-MF unregistrace - dale pak vyfotit a vložit na https://ctrlv.cz/ a poslat ve správě.
+MF unregistrace - dale pak vyfotit a vložit na 'CTRL-V <https://ctrlv.cz/>'_ a poslat ve správě.
+
 
 .. image:: /_static/img/Unregistrace.PNG
-:width: 400
-:alt: Alternative text
+  :width: 400
+
 
 Ziskaní Gemu
 ============
