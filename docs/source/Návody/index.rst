@@ -1,5 +1,5 @@
-.. role:: strike
-  :class: strike
+.. role:: underline
+   :class: underline
 
 
 ++++++
@@ -17,7 +17,7 @@ MF unregistrace - dale pak vyfotit a vložit na 'CTRL-V <https://ctrlv.cz/>'_ a 
 
 
 .. image:: /_static/img/Unregistrace.PNG
-  :width: 400
+   :width: 400
 
 
 Ziskaní Gemu
