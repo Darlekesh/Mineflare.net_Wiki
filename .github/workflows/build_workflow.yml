@@ -26,14 +26,20 @@ jobs:
         apt-get update
         apt-get install -y git
         echo "--------------------------------------------------"
+        pwd
+        echo
         ls -la
+        echo
         rm -rf ../$(echo ${GITHUB_REPOSITORY} | cut -d'/' -f2)
+        echo
         ls -la
+        echo
         cd
         ls -la
+        echo
         echo ${GITHUB_REPOSITORY}
         echo ${GITHUB_REPOSITORY} | cut -d'/' -f2
-        
+        echo
         rm -r $(echo ${GITHUB_REPOSITORY} | cut -d'/' -f2) && echo "povedlo se"
         echo "--------------------------------------------------"
         git clone "https://token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" .
