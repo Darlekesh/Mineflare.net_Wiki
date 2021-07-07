@@ -24,7 +24,7 @@ jobs:
       run: |
         apt-get update
         apt-get install -y git
-        echo "-------------------------------------------------------------------"
+        rm $(echo ${GITHUB_REPOSITORY} | cut -d'/' -f2) -rf
         git clone "https://token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" .
       shell: bash
  
