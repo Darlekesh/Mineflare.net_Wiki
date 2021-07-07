@@ -21,6 +21,7 @@ jobs:
         rm -rf $(pwd)/*
         echo 2
         rm -rf $(pwd)/.g*
+        rm -rf $(pwd)/.v*
         echo 3
         ls -la
  
