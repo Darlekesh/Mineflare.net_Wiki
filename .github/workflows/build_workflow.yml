@@ -16,11 +16,12 @@ jobs:
       shell: bash
       run: |
         echo "Cleaning up previous run"
-        pwd=$(pwd)
         ls -la
-        rm -rf $pwd/*
-        rm -rf $pwd/.*
-        echo
+        echo 1
+        rm -rf $(pwd)/*
+        echo 2
+        rm -rf $(pwd)/.*
+        echo 3
         ls -la
  
     - name: Prereqs
