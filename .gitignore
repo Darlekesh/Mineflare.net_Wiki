@@ -20,4 +20,5 @@ docs/source/*
 !docs/source/conf.py
 !docs/source/index.rst
 !docs/source/Mineflare.net/
+!docs/source/locales/
 docs/source/Mineflare.net/*
