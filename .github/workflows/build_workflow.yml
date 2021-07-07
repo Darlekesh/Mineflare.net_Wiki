@@ -16,8 +16,12 @@ jobs:
       shell: bash
       run: |
         echo "Cleaning up previous run"
-        rm -rf "${{ github.workspace }}"
-        rm -rf "${{ github.workspace }}"/.*
+        pwd=$(pwd)
+        ls -la
+        rm -rf $pwd/*
+        rm -rf $pwd/.*
+        echo
+        ls -la
  
     - name: Prereqs
       env:
@@ -25,8 +29,6 @@ jobs:
       run: |
         apt-get update
         apt-get install -y git
-
-        echo "--------------------------------------------------"
         git clone "https://token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" .
       shell: bash
  
