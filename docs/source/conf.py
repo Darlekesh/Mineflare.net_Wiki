@@ -51,7 +51,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'Mineflare.net Wiki'
+project = 'Mineflare.net_Wiki'
 copyright = '2021, Mineflare.net'
 
 # The version info for the project you're documenting, acts as replacement for
