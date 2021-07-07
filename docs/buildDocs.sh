@@ -46,7 +46,7 @@ for current_version in ${versions}; do
       continue
    fi
    
-   languages="cz \"find docs/locales/ -mindepth 1 -maxdepth 1 -type d -exec basename '{}' \;\""
+   languages="cz `find docs/locales/ -mindepth 1 -maxdepth 1 -type d -exec basename '{}' \;`"
    echo $current_language
    for current_language in ${languages}; do
  
@@ -108,7 +108,7 @@ cat > index.html <<EOF
       <meta http-equiv = "refresh" content="0; url='/${REPO_NAME}/en/master/'" />
    </head>
    <body>
-      <p>Please wait while you're redirected to our <a href="/${REPO_NAME}/en/master/">documentation</a>.</p>
+      <p>Please wait while you're redirected to our <a href="/${REPO_NAME}/cz/master/">documentation</a>.</p>
    </body>
 </html>
 EOF
