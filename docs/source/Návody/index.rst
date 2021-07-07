@@ -92,5 +92,5 @@ Pro nahlašení podezřelého hráče použij:
 
 Váš ticket bude projednan v nejbližší době.
 
-:underline:`Upozornění`: Po nahlašení, nemusí byt ticket vyřešen hned
+:underline:`Upozornění` Po nahlašení, nemusí byt ticket vyřešen hned
       kvuli již jinym reportům.
