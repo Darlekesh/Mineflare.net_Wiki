@@ -3,3 +3,7 @@
 The small documentation of the MineYourMind modded Minecraft Server Community. Here on github so everyone can suggest changes and additions.
 
 Malá dokumentace Mineflare.net minecraft serverů. Zde na githubu můžete navrhnout změny a co přidat.
+
+# Web
+
+Na tomto odkazu naleznete web https://mineflare-net.github.io/Mineflare.net_Wiki/
