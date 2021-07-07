@@ -12,6 +12,8 @@ Obsah:
    :maxdepth: 1
 
    Mineflare.net/index
+   Návody/index
+   Bans/index
    FAQ/index
    Knowledge_Base/index
    Performance/index

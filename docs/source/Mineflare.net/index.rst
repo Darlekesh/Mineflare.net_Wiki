@@ -15,9 +15,9 @@ Za čím si stojíme
 * Příjemný prožitek z hraní na našich serverech
 * Významné a nejnovější verze Minecraft serverů
 
-Výkon a stabilita
-=================
+.. Výkon a stabilita
+.. =================
 
-Víme jak důležité je aby servery fungovali nepřetržitě a bez sekání. Proto se členové admin-teamu snaží, aby vše běželo jako hodinky. Tím zabránili sekání a výpadkům serveru.
+.. Víme jak důležité je aby servery fungovali nepřetržitě a bez sekání. Proto se členové admin-teamu snaží, aby vše běželo jako hodinky. Tím zabránili sekání a výpadkům serveru.
 
-Naším hlavním cílem je dobrá komunita a příjemné hraní bez sekání.
+.. Naším hlavním cílem je dobrá komunita a příjemné hraní bez sekání.
