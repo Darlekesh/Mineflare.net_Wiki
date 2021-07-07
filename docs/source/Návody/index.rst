@@ -11,7 +11,7 @@ Ke správě, prosíme připojte potřebné dukazy, v připadě
 originalních verzí MC, zaslat sebe s pohledem F5, a napsat do chatu
 MF unregistrace - dale pak vyfotit a vložit na https://ctrlv.cz/ a poslat ve správě.
 
-.. image:: path/Unregistrace.PNG
+.. image:: _static/img/Unregistrace.PNG
 :width: 400
 :alt: Alternative text
 
@@ -47,13 +47,13 @@ Zakoupení teto pozice, získavate mnoho výhod.
 
 :underline:'VIP'
 
-Prefix VIP na serveru.'
-Rank VIP na Discordu i na Ts3'
-10K penez na serveru Survival'
-200 tokenu (Na vsech serverech)'
-Na serveru Survival kit VIP-Kit'
-* ``/ec`` na serveru Survival'
-* ``/fly`` na Lobby'
+Prefix VIP na serveru.
+Rank VIP na Discordu i na Ts3
+10K penez na serveru Survival
+200 tokenu (Na vsech serverech)
+Na serveru Survival kit VIP-Kit
+* ``/ec`` na serveru Survival
+* ``/fly`` na Lobby
 
 Tyto vyhody se mohou kdykoliv změnit!
 
@@ -61,12 +61,12 @@ Platebni metody pro tuto hodnost pripravujeme.....
 
 :underline:'EPIC-VIP'
 
-Prefix EPIC na serveru.'
-Rank EPIC na Discordu i na Ts3'
-30K penez na serveru Survival'
-500 tokenu (Na vsech serverech)'
-Na serveru Survival kit EPIC-Kit'
-* ``/ec`` na serveru Survival'
+Prefix EPIC na serveru.
+Rank EPIC na Discordu i na Ts3
+30K penez na serveru Survival
+500 tokenu (Na vsech serverech)
+Na serveru Survival kit EPIC-Kit
+* ``/ec`` na serveru Survival
 * ``/fly`` na Lobby'
 
 Tyto vyhody se mohou kdykoliv změnit!
