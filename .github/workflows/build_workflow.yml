@@ -26,3 +26,10 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: "docs/buildDocs.sh"
       shell: bash
+      
+    - name: Clean working directory
+      shell: bash
+      run: |
+        cd $RUNNER_WORKSPACE
+        cd ..
+        rm -r *
