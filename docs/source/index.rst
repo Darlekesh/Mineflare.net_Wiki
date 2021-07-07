@@ -11,7 +11,8 @@ Obsah:
 .. toctree::
    :maxdepth: 1
 
-   Mineflare.net/index
+   Mineflare.net/
+   Návody/index
    Bans/index
    FAQ/index
    Knowledge_Base/index
