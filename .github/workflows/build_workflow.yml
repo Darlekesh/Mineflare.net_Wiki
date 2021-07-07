@@ -20,7 +20,7 @@ jobs:
         echo 1
         rm -rf $(pwd)/*
         echo 2
-        rm -rf $(pwd)/.*
+        rm -rf $(pwd)/.g*
         echo 3
         ls -la
  
