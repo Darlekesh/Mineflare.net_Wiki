@@ -22,7 +22,7 @@
         <dt>{{ _('Versions') }}</dt>
         {% for slug, url in versions %}
           {% if slug == current_version %} <strong> {% endif %}
-          <dd><a href="{{ url }}">{{ slug }}</a></dd>
+          <dd><a href="{{ root_page }}">{{ slug }}</a></dd>
           {% if slug == current_version %} </strong> {% endif %}
         {% endfor %}
       </dl>
