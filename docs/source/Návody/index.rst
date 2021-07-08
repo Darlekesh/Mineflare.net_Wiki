@@ -39,6 +39,10 @@ Touto kontrolou projde každý hráč po připojení.
 AutoLogin se zapne po dotazu po prvnim pripojeni jestli vlastnite
 originalni verzi MC, tudíž napišete do chatu YES
 
+.. image:: /_static/img/Autologin.PNG
+      :width: 400
+      :alt: Autologin obrázek
+
 Pokud vlastnis Originalní verzi MC, a vybral jsi volbu změny,
 přejdi k Unregistraci.
 
