@@ -18,7 +18,7 @@ Do zprávy, prosíme připojte potřebné důkazy. V případě originalních ve
       :alt: Unregistrace obrázek
 
 
-
+|
 Získání Gemů
 ============
 
@@ -52,13 +52,13 @@ Zakoupení teto pozice, získavate mnoho výhod.
 
 :underline:`VIP`
 
-Prefix VIP na serveru.'
-Rank VIP na Discordu i na Ts3'
-10K peněz na serveru Survival'
-200 tokenů (Globálně)'
-Na serveru Survival kit VIP-Kit'
-* ``/ec`` na serveru Survival'
-* ``/fly`` na Lobby'
+| Prefix VIP na serveru.
+| Rank VIP na Discordu i na Ts3
+| 10K peněz na serveru Survival
+| 200 tokenů (Globálně)
+| Na serveru Survival kit VIP-Kit
+| ``/ec`` na serveru Survival
+| ``/fly`` na Lobby
 
 Tyto vyhody se mohou kdykoliv změnit!
 
@@ -66,13 +66,13 @@ Platební metody připravujeme.....
 
 :underline:`EPIC-VIP`
 
-Prefix EPIC na serveru.'
-Rank EPIC na Discordu i na Ts3'
-30K peněz na serveru Survival'
-500 tokenů (Globálně)'
-Na serveru Survival kit EPIC-Kit'
-* ``/ec`` na serveru Survival'
-* ``/fly`` na Lobby'
+| Prefix EPIC na serveru.
+| Rank EPIC na Discordu i na Ts3
+| 30K peněz na serveru Survival
+| 500 tokenů (Globálně)
+| Na serveru Survival kit EPIC-Kit
+| ``/ec`` na serveru Survival
+| ``/fly`` na Lobby
 
 Tyto výhody se mohou kdykoliv změnit!
 
@@ -88,7 +88,7 @@ Nahlášení hráče
 Bohužel, se vždy někdo najde, kdo má zapotřebí znepříjemňovat hru.
 
 Pro nahlašení podezřelého hráče použij:
-* ``/report <JMÉNO> <DŮVOD>``
+ ``/report <JMÉNO> <DŮVOD>``
   Například: ``/report Notch Xray``
 
 Váš ticket bude projednán v nejbližší době.
