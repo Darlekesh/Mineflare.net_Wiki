@@ -22,7 +22,7 @@
         <dt>{{ _('Versions') }}</dt>
         {% for slug, url in versions %}
           {% if slug == current_version %} <strong> {% endif %}
-          <dd><a href="{{ url }}">{{ slug }}</a></dd>
+          <dd><a href="{{ root_page }}">{{ slug }}</a></dd>
           {% if slug == current_version %} </strong> {% endif %}
         {% endfor %}
       </dl>
@@ -47,7 +47,7 @@
       </dl>
       {% endif %}
       <hr/>
-      {% trans %}Free document hosting provided by <a href="http://www.readthedocs.org">Read the Docs</a>.{% endtrans %}
+      {% trans %}Free document{{ url }} hosting provided by <a href="http://www.readthedocs.org">Read the Docs</a>.{% endtrans %}
  
     </div>
   </div>

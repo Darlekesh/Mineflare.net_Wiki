@@ -11,8 +11,12 @@ Obsah:
 .. toctree::
    :maxdepth: 1
 
+<<<<<<< HEAD
    Mineflare.net/
    Pravidla/index
+=======
+   Mineflare.net/index
+>>>>>>> fbc3cc67ef2af44dc5afd4a8b9239843d84b3351
    Návody/index
    Bans/index
    FAQ/index
