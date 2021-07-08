@@ -11,7 +11,11 @@ Ke správě, prosíme připojte potřebné dukazy, v připadě
 originalních verzí MC, zaslat sebe s pohledem F5, a napsat do chatu
 MF unregistrace - dale pak vyfotit a vložit na https://ctrlv.cz/ a poslat ve správě.
 
+<<<<<<< HEAD
 .. image:: _static/img/Unregistrace.PNG
+=======
+.. image:: /_static/img/Unregistrace.PNG
+>>>>>>> 1eb1686d4e1aff3f3392727d1391afdadeec996e
 :width: 400
 :alt: Alternative text
 
