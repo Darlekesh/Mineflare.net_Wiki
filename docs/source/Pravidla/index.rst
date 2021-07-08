@@ -9,19 +9,19 @@ Pravidla Minecraft serveru
 
 ``play.mineflare.net``
 
-I. :underline:`Základní ustanovení`
+:underline:`I. Základní ustanovení`
 
- 1.1. Všechny porušení zde uvedených pravidel vede k trestu.
+ 1.1 Všechny porušení zde uvedených pravidel vede k trestu.
 
- 1.2. Formu a délku trestu může měnit Admin-Team nebo Vedení Serveru.
+ 1.2 Formu a délku trestu může měnit Admin-Team nebo Vedení Serveru.
 
- 1.3. Vedení serveru si vyhrazuje právo upravit, či kdykoliv změnit formu pravidel.
+ 1.3 Vedení serveru si vyhrazuje právo upravit, či kdykoliv změnit formu pravidel.
 
- 1.4. V případě, kdyby vám byl udělen trest, je zakázáno obcházení banu.
+ 1.4 V případě, kdyby vám byl udělen trest, je zakázáno obcházení banu.
 
- 1.5. Je přísný zakáz používání VPN/Proxy.
+ 1.5 Je přísný zakáz používání VPN/Proxy.
 
-II. :underline:`Pravidla komunikace`
+:underline:`II. Pravidla komunikace`
 
  2.1 Každý hráč by měl dodržovat zásady dobrého chování při komunikaci s jiným hráčem.
 
@@ -39,7 +39,7 @@ II. :underline:`Pravidla komunikace`
 
  2.8 Vždy říkejte pravdu a nezatajujte žádné informace, nevyvolávejte paniku. Jakákoliv mystifikace je zakázána.
 
-III. :underline:`Herní klient`
+:underline:`III. Herní klient`
 
  3.1 Jsou zakázány jakékoliv modifikace Minecraft klienta, cheaty/hacky, módy a všechny modifikace které zvýhodňují oproti ostatním hráčům.
 
@@ -47,7 +47,7 @@ III. :underline:`Herní klient`
 
  3.3 Hráč nesmí používat programy pro napomáhání a automatizaci (AutoClicker, Double-Tripple click).
 
-IV. :underline:`Herní jméno, skin, účty`
+:underline:`IV. Herní jméno, skin, účty`
 
  4.1 Počet herních účtů je omezený na 5 účtů na 1 IP adresu, toto ale neplatí v případě aktivního banu na jednom účtu.
 
@@ -59,9 +59,9 @@ IV. :underline:`Herní jméno, skin, účty`
 
  4.5 Nesmí být vulgární, obsahovat reklamu, prvky nahoty, rasismu a jiných extrmistických skupin.
 
- 4.6 Povinnost každého hráče, je si zabezpečit svůj herní učet.
+ 4.6 Povinnost každého hráče, je si zabezpečit svůj herní účet.
 
-V. :underline:`Server obecně`
+:underline:`V. Server obecně`
 
  5.1 Je zakázano využívat jakéhokoliv chyby (bugu) na serveru, který by zvýhodňoval hrače od ostatnich, chyba musí být ihned nahlášena, pokud chyba nebude nahlášena, bude se nahlížet jako zneužívaní. Trest je trvalý ip ban.
  
@@ -96,7 +96,7 @@ Pravidla Discord serveru
 
 ``https://discord.mineflare.net/``
 
-I. :underline:`Základní ustanovení`
+:underline:`I. Základní ustanovení`
 
  1.1 Všechny porušení zde uvedených pravidel vede k trestu.
  
@@ -114,7 +114,7 @@ I. :underline:`Základní ustanovení`
  
  1.8 Je zakázáno hledat chyby v pravidlech a následně díky tomu pravidla obcházet.
 
-II. :underline:`Pravidla komunikace`
+:underline:`II. Pravidla komunikace`
 
  2.1 Každý návštěvník by měl dodržovat zásady dobrého chování při komunikaci s jiným hráčem.
  
@@ -132,33 +132,33 @@ II. :underline:`Pravidla komunikace`
  
  2.8 Vždy říkejte pravdu a nezatajujte žádné informace, nevyvolávejte paniku. Jakákoliv mystifikace je zakázána.
  
- 2.9. Nepoužívejte hlasové měniče, nevydávejte nevhodné zvuky a nepouštějte hudbu před ostatními návštěvníky.
+ 2.9 Nepoužívejte hlasové měniče, nevydávejte nevhodné zvuky a nepouštějte hudbu před ostatními návštěvníky.
 
-III. :underline:`Nickname`
+:underline:`III. Nickname`
 
  3.1 Váš Nickname nesmí porušovat žádné zde uvedené pravidla.
  
  3.2 Váš nickname se nesmí podobat jménu člena Admin-Teamu, YouTuberovi u nás na serveru. Zároveň nesmí obsahovat sexuální prvky, názvy hack-clientů.
 
-IV. :underline:`IV.Server obecně`
+:underline:`IV. Server obecně`
 
  4.1 Je zakázano využívat jakéhokoliv chyby (bugu) na serveru, který by zvýhodňoval hráče od ostatních, chyba musí být ihned nahlášena, pokud chyba nebude nahlašena, bude se brát jako zneužívaní.
  
  4.2 Je zakázáno jakkoliv ničit majetek serveru.
 
-IV. :underline:`Pravidla pro členy Admin-Teamu`
+:underline:`IV. Pravidla pro členy Admin-Teamu`
 
- 4.1. Každý člen Admin-Teamu má právo na odpočinek.
+ 4.1 Každý člen Admin-Teamu má právo na odpočinek.
  
- 4.2. Každý člen Admin-Teamu serveru MineFlare.net se řídí pravidly Admin-Teamu
+ 4.2 Každý člen Admin-Teamu serveru MineFlare.net se řídí pravidly Admin-Teamu
  
- 4.3. Člen Admin-Teamu nemusí odpovídat na dotazy, které se netýkají našeho serveru.
+ 4.3 Člen Admin-Teamu nemusí odpovídat na dotazy, které se netýkají našeho serveru.
  
- 4.4. V případě, že člen Admin-Teamu řeší jiný problém nebo nezná přesnou odpověď na otázku návštěvníka, má vždy právo návštěvníka odkázat na ticket system.
+ 4.4 V případě, že člen Admin-Teamu řeší jiný problém nebo nezná přesnou odpověď na otázku návštěvníka, má vždy právo návštěvníka odkázat na ticket system.
  
- 4.5. Člen Admin-Teamu se musí snažit pomoct každému. Problémy řeší podle svého nejlepšího uvážení.
+ 4.5 Člen Admin-Teamu se musí snažit pomoct každému. Problémy řeší podle svého nejlepšího uvážení.
  
- 4.6. Člen Admin-Teamu se nepovyšuje nad návštěvníky, nezneužívá své pravomoce.
+ 4.6 Člen Admin-Teamu se nepovyšuje nad návštěvníky, nezneužívá své pravomoce.
  
  4.7 Člen Admin-Teamu banuje lidi podle prohřešku a porušení pravidel serveru, zároveň není jeho povinností zachovávat důkazy o prohřešku danného navštěvníka.
  
