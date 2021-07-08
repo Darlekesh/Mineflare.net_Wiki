@@ -1,12 +1,14 @@
+.. role:: underline
+   :class: underline
 ++++++++
 Pravidla
 ++++++++
 Pravidla Minecraft serveru
 ==========================
 
-* ``play.mineflare.net``
+``play.mineflare.net``
 
-:underline:'I. Základní ustanovení'
+:underline:`I. Základní ustanovení`
 
 1.1 Všechny porušení zde uvedených pravidel vede k trestu.
 
@@ -18,7 +20,7 @@ Pravidla Minecraft serveru
 
 1.5 Je přísny zakáz používání VPN/Proxy.
 
-:underline:'II. Pravidla komunikace'
+:underline:`II. Pravidla komunikace`
 
 2.1 Každý hráč by měl dodržovat zásady dobrého chování při komunikaci s jiným hráčem.
 
@@ -30,7 +32,7 @@ Pravidla Minecraft serveru
 
 2.4 V chatu neprojevovat rasistické či sexistické urážky nabo vyjadřovat sexualni obsach.
 
-2.5 Nespamovat chat stejnou zprávou do chatu nebo do * ``/msg`` (Soukromých zpráv)
+2.5 Nespamovat chat stejnou zprávou do chatu nebo do ``/msg`` (Soukromých zpráv)
 
 2.6 Nezveřejňovat osobní ůdaje jinych hráču nebo AdminTeamu.
     (Mezi osobni udaje patří: Fotky, Bydliště, Faktury, Jmeno)
@@ -41,7 +43,7 @@ Pravidla Minecraft serveru
 2.8 Vždy říkejte pravdu a nezatajujte žádné informace, nevyvolávejte paniku.
     Jakákoliv mystifikace je zakázána.
 
-:underline:'III. Herní klient'
+:underline:`III. Herní klient`
 
 3.1 Jsou zakázány jakekoliv modifikace Minecraft klienta, cheaty/hacky a mody (blazingpack)
     všechny modifikace ktere zvyhodnuji oproti ostatnim hráčům.
@@ -51,7 +53,7 @@ Pravidla Minecraft serveru
 
 3.3 Hráč nesmí používat podpurne programy pro napomáhání (AutoClicker, Double-Tripple click).
 
-:underline:'IV. Herní jméno, skin, účty'
+:underline:`IV. Herní jméno, skin, účty`
 
 4.1 Počet herních účtů je neomezený, toto ale neplatí v případě aktivního banu na jednom učtu.
 
@@ -66,14 +68,14 @@ Pravidla Minecraft serveru
 
 4.6 Povinnost každého hráče, je si zabezpečit svůj herní učet.
 
-:underline:'V. Server obecně'
+:underline:`V. Server obecně`
 
 5.1 Je zakázano využívat jakehokoliv bugu na serveru, ktery by zvyhdnoval hrače od ostatnich, vada
     po nalezení musí byt nahlášena, pokud vada nebude nahlašena, bude se nahlížet jako zneužívaní.
 
 5.2 Stahovni map externími programy je zakázána.
 
-:underline:'VI. Pravidla pro členy AdminTeamu'
+:underline:`VI. Pravidla pro členy AdminTeamu`
 
 6.1 Každý člen AdminTeamu má právo na odpočinek.
 
@@ -101,9 +103,9 @@ Pravidla Minecraft serveru
 Pravidla Discord serveru
 ========================
 
-* ``https://discord.mineflare.net/``
+``https://discord.mineflare.net/``
 
-:underline:'I. Základní ustanovení'
+:underline:`I. Základní ustanovení`
 
 1.1 Všechny porušení zde uvedených pravidel vede k trestu.
 
@@ -121,7 +123,7 @@ Pravidla Discord serveru
 
 1.8 Je zakázáno hledat chyby v pravidlech a následně díky tomu pravidla obcházet.
 
-:underline:'II. Pravidla komunikace'
+:underline:`II. Pravidla komunikace`
 
 2.1 Každý návštěvník by měl dodržovat zásady dobrého chování při komunikaci s jiným hráčem.
 
@@ -146,21 +148,21 @@ Pravidla Discord serveru
 
 2.9. Nepoužívejte hlasové měniče, nevydávejte nevhodné zvuky a nepouštějte hudbu před ostatními návštěvníky.
 
-:underline:'III. Nickname'
+:underline:`III. Nickname`
 
 3.1 Váš Nickname nesmí porušovat žádne zde uvedené pravidla.
 
 3.2 Váš nickname se nesmí podobat jménu člena Admin-Teamu, YouTuberovi u nás na serveru. 
     Zároveň nesmí obsahovat sexuální prvky, názvy hack-clientů.
 
-:underline:'IV.Server obecně'
+:underline:`IV.Server obecně`
 
 4.1 Je zakázano využívat jakehokoliv bugu na serveru, ktery by zvyhdnoval hrače od ostatnich, vada
     po nalezení musí byt nahlášena, pokud vada nebude nahlašena, bude se nahlížet jako zneužívaní.
 
 4.2 Je zakazovat jakkoliv ničit majetek serveru.
 
-:underline:'IV. Pravidla pro členy AdminTeamu'
+:underline:`IV. Pravidla pro členy AdminTeamu`
 
 4.1. Každý člen AdminTeamu má právo na odpočinek.
 
@@ -186,6 +188,6 @@ Pravidla Discord serveru
 Pravidla TeamSpeak3 Serveru
 ===========================
 
-* ``ts3.mineflare.net`` - (V tuto chvíli nedostupný)
+``ts3.mineflare.net`` - (V tuto chvíli nedostupný)
 
 Tyto pravidla pro vás připravujeme....
