@@ -5,27 +5,27 @@
 ++++++
 Návody
 ++++++
-Unregistrace
+Deregistrace
 ============
 
-Pro Unregistraci na serveru, musíte zaslat email zprávu,
-na vedení serveru: vedeni@mineflare.net
+Pro deregistraci na serveru v případě zapomenutí hesla, musíte zaslat zprávu na email vedení serveru: ``vedeni@mineflare.net``
 
-Ke správě, prosíme připojte potřebné dukazy, v připadě
-originalních verzí MC, zaslat sebe s pohledem F5, a napsat do chatu
-MF unregistrace - dale pak vyfotit a vložit na `CTRL-V <https://ctrlv.cz/>`_ a poslat ve správě.
+Do zprávy, prosíme připojte potřebné důkazy. V případě originalních verzí MC, zaslat sebe s pohledem F5 a napsat do chatu ``MF unregistrace`` - dale pak vyfotit (screenshot) a vložit na `CTRL-V <https://ctrlv.cz/>`_ a poslat ve zprávě.
 
 
 .. image:: /_static/img/Unregistrace.PNG
       :width: 400
       :alt: Unregistrace obrázek
 
-Ziskaní Gemu
+
+
+Získání Gemů
 ============
 
 :underline:`Zakoupení Gemu`
 
-Tuto příležitost pro vás připravujeme...
+Tuto možnost pro vás připravujeme...
+Pokud chcete gemy i tak koupit, kontaktujte vedení serveru.
 
 :underline:`Nalezením`
 
@@ -43,10 +43,10 @@ originalni verzi MC, tudíž napišete do chatu YES
 Pokud vlastnis Originalní verzi MC, a vybral jsi volbu změny,
 přejdi k Unregistraci.
 
-VIP Učet
+VIP Účet
 ========
 
-:underline:`Vyhody VIP Učtu`
+:underline:`Výhody VIP Účtu`
 
 Zakoupení teto pozice, získavate mnoho výhod.
 
@@ -54,29 +54,29 @@ Zakoupení teto pozice, získavate mnoho výhod.
 
 Prefix VIP na serveru.'
 Rank VIP na Discordu i na Ts3'
-10K penez na serveru Survival'
-200 tokenu (Na vsech serverech)'
+10K peněz na serveru Survival'
+200 tokenů (Globálně)'
 Na serveru Survival kit VIP-Kit'
 * ``/ec`` na serveru Survival'
 * ``/fly`` na Lobby'
 
 Tyto vyhody se mohou kdykoliv změnit!
 
-Platebni metody pro tuto hodnost pripravujeme.....
+Platební metody připravujeme.....
 
 :underline:`EPIC-VIP`
 
 Prefix EPIC na serveru.'
 Rank EPIC na Discordu i na Ts3'
-30K penez na serveru Survival'
-500 tokenu (Na vsech serverech)'
+30K peněz na serveru Survival'
+500 tokenů (Globálně)'
 Na serveru Survival kit EPIC-Kit'
 * ``/ec`` na serveru Survival'
 * ``/fly`` na Lobby'
 
-Tyto vyhody se mohou kdykoliv změnit!
+Tyto výhody se mohou kdykoliv změnit!
 
-Platebni metody pro tuto hodnost pripravujeme.....
+Platební metody připravujeme.....
 
 :underline:`HERO-VIP`
 
@@ -85,12 +85,12 @@ Tato hodnost se teprve připravuje....
 Nahlášení hráče
 ===============
 
-Bohužel se kdekoliv najde někdo kdo znepřijemňuje hru.
+Bohužel, se vždy někdo najde, kdo má zapotřebí znepříjemňovat hru.
 
 Pro nahlašení podezřelého hráče použij:
-* ``/report (jmeno) (duvod)``
+* ``/report <JMÉNO> <DŮVOD>``
+  Například: ``/report Notch Xray``
 
-Váš ticket bude projednan v nejbližší době.
+Váš ticket bude projednán v nejbližší době.
 
-:underline:`Upozornění` Po nahlašení, nemusí byt ticket vyřešen hned
-      kvuli již jinym reportům.
+:underline:`Upozornění` Po nahlašení, nemusí být ticket vyřešen hned, kvůli již jiným reportům.
