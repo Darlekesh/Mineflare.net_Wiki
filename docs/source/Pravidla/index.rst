@@ -1,5 +1,6 @@
 .. role:: underline
-   :class: underline
+    :class: underline
+ 
 ++++++++
 Pravidla
 ++++++++
@@ -16,7 +17,7 @@ I. :underline:`Základní ustanovení`
 
  1.3. Vedení serveru si vyhrazuje právo upravit, či kdykoliv změnit formu pravidel.
 
- 1.4. V případě, kdy by vám byl udělen ban, je zakázáno obcházení banu.
+ 1.4. V případě, kdyby vám byl udělen trest, je zakázáno obcházení banu.
 
  1.5. Je přísný zakáz používání VPN/Proxy.
 
@@ -26,7 +27,7 @@ II. :underline:`Pravidla komunikace`
 
  2.2 Hráč nesmí žádným způsobem propagovat jiné servery, projekty, portály, či jiné URL odkazy na sociální sítě, soutěže nebo nábory.
 
- 2.3 Nurážet či slovně nenapadat členy Admin-Teamu či jiné hráče, nevyvolávat slovní konflikty, které by museli vést k následnému trestu.
+ 2.3 Nurážet či slovně nenapadat členy Admin-Teamu či jiné hráče, nevyvolávat slovní konflikty, které by musely vést k následnému trestu.
 
  2.4 V chatu neprojevovat rasistické či sexistické urážky nebo vyjadřovat sexualní obsah.
 
