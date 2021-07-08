@@ -23,8 +23,6 @@ docs/source/*
 !docs/source/locales/
 !docs/source/Bans/
 !docs/source/Návody/
-<<<<<<< HEAD
 !docs/source/Pravidla/
-=======
 .vscode/settings.json
->>>>>>> fbc3cc67ef2af44dc5afd4a8b9239843d84b3351
+*kopie*
