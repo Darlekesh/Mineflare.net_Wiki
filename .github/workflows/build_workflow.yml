@@ -41,6 +41,13 @@ jobs:
       run: "docs/buildDocs.sh"
       shell: bash
       
+    - name: Upload to webhost
+      uses: docker://evaneos/ssh-action:0.1.0
+      with:
+        hosts: mineflare.net
+        user: github
+        private_key: ${{ secrets.PRIVATE_KEY }}
+        commands: bash ~/githubScripts/wiki.sh
     #- name: Clean working directory
     #  if: ${{ always() }}
     #  shell: bash
