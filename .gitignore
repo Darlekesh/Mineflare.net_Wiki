@@ -22,7 +22,7 @@ docs/source/*
 !docs/source/Mineflare.net/
 !docs/source/locales/
 !docs/source/Bans/
-!docs/source/Návody/
-!docs/source/Pravidla/
+!docs/source/Manuals/
+!docs/source/Rules/
 .vscode/settings.json
 *kopie*

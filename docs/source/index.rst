@@ -12,14 +12,9 @@ Obsah:
    :maxdepth: 1
 
    Mineflare.net/index
-   Pravidla/index
-   Návody/index
+   Rules/index
+   Manuals/index
    Bans/index
-   FAQ/index
-   Knowledge_Base/index
-   Performance/index
-   Server_Ips/index
-   Credits/index
 
 
 Indices and tables
